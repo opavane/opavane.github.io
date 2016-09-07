@@ -1,6 +1,6 @@
 # Web jihočeských Pirátů
 
-Web Pirátů v Jihočeském kraji. 
+Web Pirátů v Moravskoslezském kraji. 
 
 Pro psaní článků je třeba umět [markdown](https://daringfireball.net/projects/markdown/). Pro zbylé úpravy html a css framework [Foundation 6](http://foundation.zurb.com/). Takže je třeba seznámit se alespoň se základy gitu.
 
